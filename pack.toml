@@ -1,11 +1,11 @@
 name = "McMods"
 version = "1.0.0"
-pack-format = "packwiz:1.0.0"
+pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "8a0d6571703d1e4a9a377086d2461457438dec6b92b425a2734bc8903f39193c"
+hash = "24bc6cfdfa3d7043f04410fd9b75b96a08ab7f9a842c406307e74187cbb7dbd8"
 
 [versions]
 fabric = "0.14.9"
