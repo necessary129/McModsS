@@ -1,14 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = ".gitattributes"
-hash = "76794163fe6fffef2e1d3dd1ca3ec56f1e490c63a50c8fb554179627b9853e7c"
-
-[[files]]
-file = ".gitignore"
-hash = "d7596f13f46976754bcbde7b64957baf3db89996f2e725e0cce24d0157dbe513"
-
-[[files]]
 file = "mods/fabric-api.toml"
 hash = "48b23e6e62912e436767785a110d80b302234d50a1fbfdc5efab9d183f384391"
 metafile = true
