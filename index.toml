@@ -1,0 +1,34 @@
+hash-format = "sha256"
+
+[[files]]
+file = ".gitattributes"
+hash = "76794163fe6fffef2e1d3dd1ca3ec56f1e490c63a50c8fb554179627b9853e7c"
+
+[[files]]
+file = ".gitignore"
+hash = "d7596f13f46976754bcbde7b64957baf3db89996f2e725e0cce24d0157dbe513"
+
+[[files]]
+file = "mods/fabric-api.toml"
+hash = "48b23e6e62912e436767785a110d80b302234d50a1fbfdc5efab9d183f384391"
+metafile = true
+
+[[files]]
+file = "mods/ferrite-core.toml"
+hash = "07d65730f91163125f7ab37f34a046078fbf53739a501bc8c0fd4c07368da668"
+metafile = true
+
+[[files]]
+file = "mods/krypton.toml"
+hash = "674064d3622274c6ebf5662d934a8cf7226243e37cb4305d4eaa49f43c053b20"
+metafile = true
+
+[[files]]
+file = "mods/lithium.toml"
+hash = "7e2e34b47365cca6742a1735378462804fb5aab271f6a3e62466bd61758aff15"
+metafile = true
+
+[[files]]
+file = "mods/starlight.toml"
+hash = "6f37b4e47095149ae76a84d46533210a424b38d97daef512c09ba8cfee66c49a"
+metafile = true
